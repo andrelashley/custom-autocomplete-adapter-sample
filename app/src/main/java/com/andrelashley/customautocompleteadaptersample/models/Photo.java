@@ -50,4 +50,8 @@ public class Photo {
     public void setThumbnailUrl(String thumbnailUrl) {
         this.thumbnailUrl = thumbnailUrl;
     }
+
+    public String toString() {
+        return title;
+    }
 }

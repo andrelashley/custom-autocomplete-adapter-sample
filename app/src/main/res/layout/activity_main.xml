@@ -17,7 +17,7 @@
 
 
             <AutoCompleteTextView
-                android:id="@+id/photosAutocomplete"
+                android:id="@+id/autocomplete"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
                 android:completionThreshold="1"
